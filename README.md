@@ -21,16 +21,15 @@ Chest_Xray_Pneumonia_Detector/
 │── train/
 │   ├── model_training_code.ipynb
 │   ├── saving_model/
-│   │   ├── pneumonia_model.keras
+│       ├── pneumonia_model.keras
 │── results/
-│   │   ├── sample1.png
-│   │   ├── sample3.png
-│   │   ├──.....
+│       ├── sample1.png
+│       ├── sample3.png
+│       ├──.....
 │── deployment/
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── index.html
-
+    ├── app.py
+    ├── requirements.txt
+    ├── index.html
 ```
 
 ## Installation & Setup
