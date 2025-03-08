@@ -1,4 +1,4 @@
-# Chest X-Ray Pneumonia Detector EplainableAi + Web app
+# Chest X-Ray Pneumonia Detector xAi + Web app
 
 ## Project Overview
 
