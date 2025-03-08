@@ -1,4 +1,4 @@
-# Pneumonia Detection with Explainable AI & Web Deployment
+# Chest X-Ray Pneumonia Detector EplainableAi + Web app
 
 ## Project Overview
 
