@@ -23,10 +23,14 @@ Chest_Xray_Pneumonia_Detector/
 │   ├── saving_model/
 │   │   ├── pneumonia_model.keras
 │── results/
+│   │   ├── sample1.png
+│   │   ├── sample3.png
+│   │   ├──.....
 │── deployment/
 │   ├── app.py
 │   ├── requirements.txt
-│── README.md
+│   ├── index.html
+
 ```
 
 ## Installation & Setup
